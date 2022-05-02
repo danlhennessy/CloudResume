@@ -6,8 +6,8 @@ pool:
 steps:
 – script: |
     git config –global core.longpaths true
-    git config –global user.email danh118@hotmail.co.uk
-    git config –global user.name danlhennessy
+    git config –global danh118@hotmail.co.uk
+    git config –global danlhennessy
     git checkout master
     git pull –all
     git add .
