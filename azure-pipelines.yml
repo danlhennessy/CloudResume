@@ -1,16 +1,6 @@
-		
-trigger:
-– master
-pool:
-  vmImage: 'windows-2019'
 steps:
-– script: |
-    git config –global core.longpaths true
-    git config –global danh118@hotmail.co.uk
-    git config –global danlhennessy
-    git checkout master
-    git pull –all
-    git add .
-    git commit -m "sync from azure devops"
-    git push https://$ADO_token@github.com/danlhennessy/CloudResume.git -f
-  displayName: 'Run git sync'
+- bash: |
+    git push --prune https://$ADO_token@github.com/danlhennessy/CloudResume \
+        +refs/remotes/origin/*:refs/heads/* +refs/tags/*:refs/tags/*
+  displayName: 'Copy to Github'
+  condition: eq(variables['Build.SourceBranch'], 'refs/heads/master')
