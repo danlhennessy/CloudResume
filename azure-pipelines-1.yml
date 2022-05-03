@@ -1,4 +1,4 @@
-pool: Default/DESKTOP-59B6LVK
+pool: Default
 trigger:
   - master
 steps:
