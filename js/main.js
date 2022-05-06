@@ -2,7 +2,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
     getVisitCount();
 });
 
-const apiGateway = 'https://visitorcountapi.azurewebsites.net/api/HttpTrigger1?code=_f5IPrHoCb0Lu78Ck1WH0pxxk5oSoTthbspeVWc3mRMbAzFuFPwBXQ=='; 
+const apiGateway = 'https://visitorcountapi.azurewebsites.net/api/HttpTrigger1?code=sZrhu0k7XIQWcu03ehWAUmZjpeP6fPUsNURWA8aMeBnNI5nORrvtww=='; 
 
 const getVisitCount = () => {
     let count = 0;
