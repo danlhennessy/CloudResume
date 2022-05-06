@@ -633,21 +633,8 @@
                                         </li>
                                     </ul>
                                     <!-- Visitor Counter here-->
-                                    <div class="website-counter"></div>
-                                    <script>
-                                        var counterContainer = document.querySelector(".website-counter");
-                                        var visitCount = localStorage.getItem("page_view");
-                                        visitCount = 1;
-
-                                        //Add entry for key="page_view"
-                                        localStorage.setItem("page_view", 1);
-                                        visitCount = Number(visitCount) + 1;
-
-                                        // Update local storage value
-                                        localStorage.setItem("page_view", visitCount);
-                                        counterContainer.innerHTML = visitCount;
-                                    </script>
-									</div>
+                                    <div id="visitorElem">
+                                        <p>The number of visitors is : <span id="counter">0</span></p>
                                 </div>
                             </div><!-- end Inner row -->
                             <!-- Google Maps -->
@@ -698,5 +685,7 @@
         <script src="js/theme-plugins.min.js"></script>
         <!-- Custom Scripts -->
         <script src="js/scripts.min.js"></script>
+        <!-- Counter API Scripts -->
+        <script src="main.js"></script>
     </body>
 </html>
