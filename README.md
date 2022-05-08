@@ -5,46 +5,46 @@
 Azure Cloud Resume Challenge
 
 1. Certification
-<html><img src="/images/done.jpg" width="200"/></html>
+<html><img src="/images/inprogress.jpg" width="200"/></html>
 
 2. HTML
-![Alt text](/images/done.jpg?raw=true "Title")
+<html><img src="/images/done.jpg" width="200"/></html>
 
 3. CSS
-![Alt text](/images/done.jpg?raw=true "Title")
+<html><img src="/images/done.jpg" width="200"/></html>
 
 4. Static Website
-![Alt text](/images/done.jpg?raw=true "Title")
+<html><img src="/images/done.jpg" width="200"/></html>
 
 5. HTTPS
-![Alt text](/images/done.jpg?raw=true "Title")
+<html><img src="/images/done.jpg" width="200"/></html>
 
 6. DNS
-![Alt text](/images/done.jpg?raw=true "Title")
+<html><img src="/images/done.jpg" width="200"/></html>
 
 7. Javascript
-![Alt text](/images/done.jpg?raw=true "Title")
+<html><img src="/images/done.jpg" width="200"/></html>
 
 8. Database
-![Alt text](/images/done.jpg?raw=true "Title")
+<html><img src="/images/done.jpg" width="200"/></html>
 
 9. API
-![Alt text](/images/done.jpg?raw=true "Title")
+<html><img src="/images/done.jpg" width="200"/></html>
 
 10. Python
-![Alt text](/images/inprogress.jpg?raw=true "Title")
+<html><img src="/images/inprogress.jpg" width="200"/></html>
 
 11. Tests
-![Alt text](/images/inprogress.jpg?raw=true "Title")
+<html><img src="/images/inprogress.jpg" width="200"/></html>
 
 12. Infrastructure as Code
-![Alt text](/images/inprogress.jpg?raw=true "Title")
+<html><img src="/images/inprogress.jpg" width="200"/></html>
 
 13. Source Control
-![Alt text](/images/done.jpg?raw=true "Title")
+<html><img src="/images/done.jpg" width="200"/></html>
 
 14. CI/CD (Back end)
-![Alt text](/images/inprogress.jpg?raw=true "Title")
+<html><img src="/images/inprogress.jpg" width="200"/></html>
 
 15. CI/CD (Front end)
-![Alt text](/images/done.jpg?raw=true "Title")
+<html><img src="/images/done.jpg" width="200"/></html>
