@@ -5,45 +5,46 @@
 Azure Cloud Resume Challenge
 
 1. Certification
-
+![Alt text](/images/inprogress.jpg?raw=true "Title")
 
 2. HTML
-![Alt text](/images/portfolio-1.jpg?raw=true "Title")
+![Alt text](/images/done.jpg?raw=true "Title")
 
 3. CSS
-
+![Alt text](/images/done.jpg?raw=true "Title")
 
 4. Static Website
-
+![Alt text](/images/done.jpg?raw=true "Title")
 
 5. HTTPS
-
+![Alt text](/images/done.jpg?raw=true "Title")
 
 6. DNS
-
+![Alt text](/images/done.jpg?raw=true "Title")
 
 7. Javascript
-
+![Alt text](/images/done.jpg?raw=true "Title")
 
 8. Database
-
+![Alt text](/images/done.jpg?raw=true "Title")
 
 9. API
-
+![Alt text](/images/done.jpg?raw=true "Title")
 
 10. Python
-
+![Alt text](/images/inprogress.jpg?raw=true "Title")
 
 11. Tests
-
+![Alt text](/images/inprogress.jpg?raw=true "Title")
 
 12. Infrastructure as Code
-
+![Alt text](/images/inprogress.jpg?raw=true "Title")
 
 13. Source Control
-
+![Alt text](/images/done.jpg?raw=true "Title")
 
 14. CI/CD (Back end)
-
+![Alt text](/images/inprogress.jpg?raw=true "Title")
 
 15. CI/CD (Front end)
+![Alt text](/images/done.jpg?raw=true "Title")
