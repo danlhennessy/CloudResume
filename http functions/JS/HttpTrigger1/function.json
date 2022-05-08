@@ -1,0 +1,35 @@
+﻿{
+  "bindings": [
+    {
+      "authLevel": "function",
+      "type": "httpTrigger",
+      "direction": "in",
+      "name": "req",
+      "methods": [
+        "get",
+        "post"
+      ]
+    },
+    {
+      "type": "http",
+      "direction": "out",
+      "name": "res"
+    },
+    {
+      "name": "inputDocument",
+      "databaseName": "cosmosid",
+      "collectionName": "container1",
+      "connectionStringSetting": "visitorcountcosmosdb_DOCUMENTDB",
+      "direction": "in",
+      "type": "cosmosDB"
+    },
+    {
+      "name": "outputDocument",
+      "direction": "out",
+      "type": "cosmosDB",
+      "connectionStringSetting": "visitorcountcosmosdb_DOCUMENTDB",
+      "databaseName": "cosmosid",
+      "collectionName": "container1"
+    }
+  ]
+}

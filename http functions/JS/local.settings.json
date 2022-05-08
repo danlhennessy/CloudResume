@@ -1,0 +1,18 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "WEBSITE_SLOT_NAME": "Production",
+    "FUNCTIONS_EXTENSION_VERSION": "~3",
+    "ScmType": "None",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "APPLICATIONINSIGHTS_CONNECTION_STRING": "InstrumentationKey=30638a67-c148-4602-868b-474aa835b417;IngestionEndpoint=https://ukwest-0.in.applicationinsights.azure.com/;LiveEndpoint=https://ukwest.livediagnostics.monitor.azure.com/",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "30638a67-c148-4602-868b-474aa835b417",
+    "WEBSITE_NODE_DEFAULT_VERSION": "12.21.0",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=cloudresumeba91;AccountKey=KIgQzt8zun9QXeW2P98dntvt2KfTdWdGs0HRdt/E4qkhIGqvbM1LuB8zuwWO2m8itQUHFPNcHBJZCeKUW2NJxA==;EndpointSuffix=core.windows.net",
+    "WEBSITE_CONTENTSHARE": "visitorcountapi901d",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "WEBSITE_SITE_NAME": "visitorcountapi",
+    "visitorcountcosmosdb_DOCUMENTDB": "AccountEndpoint=https://visitorcountcosmosdb.documents.azure.com:443/;AccountKey=KZCwHmJNsNtFq3Yx4k2laabPypsFcEC3Fu5QNzNGHscjUOTTr7svhH0wUoyc3dKOYSmyxklMMlICt2sHlTTJ3A==;",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=cloudresumeba91;AccountKey=KIgQzt8zun9QXeW2P98dntvt2KfTdWdGs0HRdt/E4qkhIGqvbM1LuB8zuwWO2m8itQUHFPNcHBJZCeKUW2NJxA==;EndpointSuffix=core.windows.net"
+  }
+}
