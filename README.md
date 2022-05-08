@@ -6,6 +6,7 @@ Azure Cloud Resume Challenge
 
 1. Certification
 ![Alt text](/images/inprogress.jpg?raw=true "Title")
+<img src="/images/inprogress.jpg" alt="inprogress" width="30px" height"30px"=/>
 
 2. HTML
 ![Alt text](/images/done.jpg?raw=true "Title")
