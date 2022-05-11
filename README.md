@@ -32,13 +32,13 @@ Azure Cloud Resume Challenge
 <html><img src="/images/done.jpg" width="100"/></html>
 
 10. Python
-<html><img src="/images/inprogress.jpg" width="100"/></html>
+<html><img src="/images/done.jpg" width="100"/></html>
 
 11. Tests
-<html><img src="/images/inprogress.jpg" width="100"/></html>
+<html><img src="/images/done.jpg" width="100"/></html>
 
 12. Infrastructure as Code
-<html><img src="/images/inprogress.jpg" width="100"/></html>
+<html><img src="/images/done.jpg" width="100"/></html>
 
 13. Source Control
 <html><img src="/images/done.jpg" width="100"/></html>
