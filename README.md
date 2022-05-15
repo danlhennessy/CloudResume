@@ -44,7 +44,7 @@ Azure Cloud Resume Challenge
 <html><img src="/images/done.jpg" width="100"/></html>
 
 14. CI/CD (Back end)
-<html><img src="/images/inprogress.jpg" width="100"/></html>
+<html><img src="/images/done.jpg" width="100"/></html>
 
 15. CI/CD (Front end)
 <html><img src="/images/done.jpg" width="100"/></html>
