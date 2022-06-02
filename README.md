@@ -4,6 +4,8 @@
 
 Azure Cloud Resume Challenge
 
+Static Site: https://staticwebsitesa12.z33.web.core.windows.net/
+
 1. Certification
 <html><img src="/images/inprogress.jpg" width="100"/></html>
 
